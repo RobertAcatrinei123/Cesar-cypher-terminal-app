@@ -178,10 +178,10 @@ void menu()
         printf("1. Read text from keyboard\n");
         printf("2. Read text from file\n");
         printf("3. Shift text\n");
+        printf("4. Compute histogram\n");
         printf("q. Quit\n");
         printf("Enter choice (please only write one letter): ");
         char o;
-        int shift;
         scanf("%c", &o);
         switch (o)
         {
@@ -207,13 +207,29 @@ void menu()
             }
             break;
         case '3':
+        {
+            int shift;
             printf("Enter shift: ");
             fflush(stdin);
             char tmp[100];
             read_text_terminal(tmp);
             shift = atoi(tmp);
             strcpy(txt, shift_text(txt, shift));
-            break;
+        }
+        break;
+
+        case '4':
+        {
+            double histrogram[ALPHABET_SIZE] = {0};
+            compute_histogram(txt, histrogram);
+            for (int i = 0; i < ALPHABET_SIZE; i++)
+            {
+                printf("%c: %0.2f%%\n", 'a' + i, histrogram[i]);
+            }
+            fflush(stdin);
+            fflush(stdout);
+        }
+        break;
 
         case 'q':
         case 'Q':
@@ -221,7 +237,7 @@ void menu()
             break;
 
         default:
-            printf("Invalid option. Try again");
+            printf("Invalid option. Try again\n");
             break;
         }
     }
