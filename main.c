@@ -172,16 +172,33 @@ void menu()
         }
 
         printf("1. Read text from keyboard\n");
+        printf("2. Read text from file\n");
         printf("q. Quit\n");
         printf("Enter choice (please only write one letter): ");
         char o;
-        scanf(" %c", &o);
+        scanf("%c", &o);
         switch (o)
         {
         case '1':
             printf("Enter text: ");
             fflush(stdin);
             read_text_terminal(txt);
+            break;
+
+        case '2':
+            printf("Enter file name: ");
+            fflush(stdin);
+            char filename[100];
+            read_text_terminal(filename);
+            FILE *fin = fopen(filename, "r");
+            if (fin == NULL)
+            {
+                printf("File not found\n");
+            }
+            else
+            {
+                read_text_file(fin, txt);
+            }
             break;
 
         case 'q':
