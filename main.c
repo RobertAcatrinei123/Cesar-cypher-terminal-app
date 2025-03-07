@@ -87,11 +87,15 @@ char *shift_text(const char *text, int shift)
     {
         if (text[i] >= 'a' && text[i] <= 'z')
         {
-            shifted_text[i] = (text[i] - 'a' + shift) % 26 + 'a';
+            shifted_text[i] = (text[i] - 'a' + shift + 26) % 26 + 'a';
         }
         else if (text[i] >= 'A' && text[i] <= 'Z')
         {
-            shifted_text[i] = (text[i] - 'A' + shift) % 26 + 'A';
+            shifted_text[i] = (text[i] - 'A' + shift + 26) % 26 + 'A';
+        }
+        else
+        {
+            shifted_text[i] = text[i];
         }
     }
     return shifted_text;
@@ -106,7 +110,7 @@ void break_caesar_cipher(const char *text, const double normal_distribution[ALPH
     } shifts[ALPHABET_SIZE];
     for (int i = 0; i < ALPHABET_SIZE; i++)
     {
-        char *shifted_text = shift_text(text, i);
+        char *shifted_text = shift_text(text, -i);
         double distribution[ALPHABET_SIZE] = {0};
         compute_histogram(shifted_text, distribution);
 
@@ -173,9 +177,11 @@ void menu()
 
         printf("1. Read text from keyboard\n");
         printf("2. Read text from file\n");
+        printf("3. Shift text\n");
         printf("q. Quit\n");
         printf("Enter choice (please only write one letter): ");
         char o;
+        int shift;
         scanf("%c", &o);
         switch (o)
         {
@@ -199,6 +205,14 @@ void menu()
             {
                 read_text_file(fin, txt);
             }
+            break;
+        case '3':
+            printf("Enter shift: ");
+            fflush(stdin);
+            char tmp[100];
+            read_text_terminal(tmp);
+            shift = atoi(tmp);
+            strcpy(txt, shift_text(txt, shift));
             break;
 
         case 'q':
