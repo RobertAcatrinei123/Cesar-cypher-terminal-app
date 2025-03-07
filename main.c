@@ -5,11 +5,6 @@
 const int ALPHABET_SIZE = 26;
 const int TOP_N = 3;
 
-void clrscr()
-{
-    system("@cls||clear");
-}
-
 void read_distrubutions(const char *filename, double distribution[ALPHABET_SIZE])
 {
     FILE *fin = fopen(filename, "r");
@@ -177,8 +172,10 @@ void menu()
 
         printf("1. Read text from keyboard\n");
         printf("2. Read text from file\n");
-        printf("3. Shift text\n");
-        printf("4. Compute histogram\n");
+        printf("3. Write text to file\n");
+        printf("4. Shift text\n");
+        printf("5. Compute histogram\n");
+        printf("6. Break Caesar cipher\n");
         printf("q. Quit\n");
         printf("Enter choice (please only write one letter): ");
         char o;
@@ -192,6 +189,7 @@ void menu()
             break;
 
         case '2':
+        {
             printf("Enter file name: ");
             fflush(stdin);
             char filename[100];
@@ -205,8 +203,20 @@ void menu()
             {
                 read_text_file(fin, txt);
             }
-            break;
+        }
+        break;
+
         case '3':
+        {
+            printf("Enter file name: ");
+            fflush(stdin);
+            char filename[100];
+            read_text_terminal(filename);
+            FILE *fout = fopen(filename, "w");
+            output_text(fout, txt);
+        }
+        break;
+        case '4':
         {
             int shift;
             printf("Enter shift: ");
@@ -218,7 +228,7 @@ void menu()
         }
         break;
 
-        case '4':
+        case '5':
         {
             double histrogram[ALPHABET_SIZE] = {0};
             compute_histogram(txt, histrogram);
@@ -228,6 +238,47 @@ void menu()
             }
             fflush(stdin);
             fflush(stdout);
+        }
+        break;
+
+        case '6':
+        {
+            double normal_distribution[ALPHABET_SIZE];
+            read_distrubutions("distributions.txt", normal_distribution);
+            int top_shifts[TOP_N];
+            double top_distances[TOP_N];
+            fflush(stdin);
+            fflush(stdout);
+            printf("Choose distance function:\n");
+            printf("1. Chi-squared distance\n");
+            printf("2. Euclidean distance\n");
+            printf("3. Cosine distance\n");
+        again:;
+            printf("Enter choice: ");
+            fflush(stdin);
+            fflush(stdout);
+            char choice;
+            scanf("%c", &choice);
+            switch (choice)
+            {
+            case '1':
+                break_caesar_cipher(txt, normal_distribution, top_shifts, top_distances, chi_squared_distance);
+                break;
+            case '2':
+                break_caesar_cipher(txt, normal_distribution, top_shifts, top_distances, euclidean_distance);
+                break;
+            case '3':
+                break_caesar_cipher(txt, normal_distribution, top_shifts, top_distances, cosine_distance);
+                break;
+            default:
+                printf("Invalid option. Try again\n");
+                goto again;
+                break;
+            }
+            for (int i = 0; i < TOP_N; i++)
+            {
+                printf("Shift: %d, Distance: %0.2f\n", top_shifts[i], top_distances[i]);
+            }
         }
         break;
 
