@@ -135,7 +135,7 @@ void break_caesar_cipher(const char *text, const double normal_distribution[ALPH
 void read_text_terminal(char *text)
 {
     fgets(text, 1000, stdin);
-    printf("You entered: %s\n", text);
+    text[strlen(text) - 1] = '\0';
 }
 
 void read_text_file(FILE *fin, char *text)
@@ -159,13 +159,12 @@ void output_text(FILE *fout, char *text)
 
 void menu()
 {
-    char *txt = (char *)calloc(1000, sizeof(char));
-    txt = "";
+    char txt[1000] = "";
     while (1)
     {
         if (txt[0] != '\0')
         {
-            printf("Your current text is: \"%s\"", txt);
+            printf("Your current text is: \"%s\"\n", txt);
         }
         else
         {
