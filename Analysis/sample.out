@@ -1,0 +1,772 @@
+Text: Hello!
+
+Shift: 11
+
+Chi Squared Distance
+
+Top 1: Shift = 22, Distance = 399.067918
+Decrypted text: Wtaad!
+
+
+Top 2: Shift = 11, Distance = 450.703167
+Decrypted text: Hello!
+
+
+Top 3: Shift = 14, Distance = 527.034158
+Decrypted text: Ebiil!
+
+
+Euclidean Distance
+
+Top 1: Shift = 18, Distance = 43.133630
+Decrypted text: Axeeh!
+
+
+Top 2: Shift = 11, Distance = 45.656434
+Decrypted text: Hello!
+
+
+Top 3: Shift = 14, Distance = 46.567263
+Decrypted text: Ebiil!
+
+
+Cosine Distance
+
+Top 1: Shift = 18, Distance = 0.411423
+Decrypted text: Axeeh!
+
+
+Top 2: Shift = 11, Distance = 0.494030
+Decrypted text: Hello!
+
+
+Top 3: Shift = 14, Distance = 0.525008
+Decrypted text: Ebiil!
+
+
+Text: Hello, World!
+
+Shift: 17
+
+Chi Squared Distance
+
+Top 1: Shift = 20, Distance = 239.929577
+Decrypted text: Ebiil, Tloia!
+
+
+Top 2: Shift = 2, Distance = 246.608047
+Decrypted text: Wtaad, Ldgas!
+
+
+Top 3: Shift = 17, Distance = 284.489939
+Decrypted text: Hello, World!
+
+
+Euclidean Distance
+
+Top 1: Shift = 20, Distance = 33.113592
+Decrypted text: Ebiil, Tloia!
+
+
+Top 2: Shift = 24, Distance = 34.358551
+Decrypted text: Axeeh, Phkew!
+
+
+Top 3: Shift = 17, Distance = 35.867952
+Decrypted text: Hello, World!
+
+
+Cosine Distance
+
+Top 1: Shift = 20, Distance = 0.374464
+Decrypted text: Ebiil, Tloia!
+
+
+Top 2: Shift = 24, Distance = 0.413100
+Decrypted text: Axeeh, Phkew!
+
+
+Top 3: Shift = 17, Distance = 0.461855
+Decrypted text: Hello, World!
+
+
+Text: Hello, World! Hello, World! Hello, World! Hello, World!
+
+Shift: 5
+
+Chi Squared Distance
+
+Top 1: Shift = 8, Distance = 239.929577
+Decrypted text: Ebiil, Tloia! Ebiil, Tloia! Ebiil, Tloia! Ebiil, Tloia!
+
+
+Top 2: Shift = 16, Distance = 246.608047
+Decrypted text: Wtaad, Ldgas! Wtaad, Ldgas! Wtaad, Ldgas! Wtaad, Ldgas!
+
+
+Top 3: Shift = 5, Distance = 284.489939
+Decrypted text: Hello, World! Hello, World! Hello, World! Hello, World!
+
+
+Euclidean Distance
+
+Top 1: Shift = 8, Distance = 33.113592
+Decrypted text: Ebiil, Tloia! Ebiil, Tloia! Ebiil, Tloia! Ebiil, Tloia!
+
+
+Top 2: Shift = 12, Distance = 34.358551
+Decrypted text: Axeeh, Phkew! Axeeh, Phkew! Axeeh, Phkew! Axeeh, Phkew!
+
+
+Top 3: Shift = 5, Distance = 35.867952
+Decrypted text: Hello, World! Hello, World! Hello, World! Hello, World!
+
+
+Cosine Distance
+
+Top 1: Shift = 8, Distance = 0.374464
+Decrypted text: Ebiil, Tloia! Ebiil, Tloia! Ebiil, Tloia! Ebiil, Tloia!
+
+
+Top 2: Shift = 12, Distance = 0.413100
+Decrypted text: Axeeh, Phkew! Axeeh, Phkew! Axeeh, Phkew! Axeeh, Phkew!
+
+
+Top 3: Shift = 5, Distance = 0.461855
+Decrypted text: Hello, World! Hello, World! Hello, World! Hello, World!
+
+
+Text: How's it going?
+
+Shift: 10
+
+Chi Squared Distance
+
+Top 1: Shift = 10, Distance = 239.410496
+Decrypted text: How's it going?
+
+
+Top 2: Shift = 11, Distance = 339.390739
+Decrypted text: Gnv'r hs fnhmf?
+
+
+Top 3: Shift = 22, Distance = 570.086001
+Decrypted text: Vck'g wh ucwbu?
+
+
+Euclidean Distance
+
+Top 1: Shift = 24, Distance = 29.443560
+Decrypted text: Tai'e uf sauzs?
+
+
+Top 2: Shift = 10, Distance = 30.084964
+Decrypted text: How's it going?
+
+
+Top 3: Shift = 25, Distance = 30.624048
+Decrypted text: Szh'd te rztyr?
+
+
+Cosine Distance
+
+Top 1: Shift = 24, Distance = 0.378100
+Decrypted text: Tai'e uf sauzs?
+
+
+Top 2: Shift = 10, Distance = 0.397979
+Decrypted text: How's it going?
+
+
+Top 3: Shift = 25, Distance = 0.415017
+Decrypted text: Szh'd te rztyr?
+
+
+Text: Hello, world! How's it going?
+
+Shift: 16
+
+Chi Squared Distance
+
+Top 1: Shift = 16, Distance = 130.980391
+Decrypted text: Hello, world! How's it going?
+
+
+Top 2: Shift = 19, Distance = 387.531672
+Decrypted text: Ebiil, tloia! Elt'p fq dlfkd?
+
+
+Top 3: Shift = 12, Distance = 406.447871
+Decrypted text: Lipps, asvph! Lsa'w mx ksmrk?
+
+
+Euclidean Distance
+
+Top 1: Shift = 16, Distance = 23.651903
+Decrypted text: Hello, world! How's it going?
+
+
+Top 2: Shift = 19, Distance = 25.305432
+Decrypted text: Ebiil, tloia! Elt'p fq dlfkd?
+
+
+Top 3: Shift = 4, Distance = 26.857350
+Decrypted text: Tqxxa, iadxp! Tai'e uf sauzs?
+
+
+Cosine Distance
+
+Top 1: Shift = 16, Distance = 0.304902
+Decrypted text: Hello, world! How's it going?
+
+
+Top 2: Shift = 19, Distance = 0.353291
+Decrypted text: Ebiil, tloia! Elt'p fq dlfkd?
+
+
+Top 3: Shift = 4, Distance = 0.401681
+Decrypted text: Tqxxa, iadxp! Tai'e uf sauzs?
+
+
+Text: Meet me later
+
+Shift: 24
+
+Chi Squared Distance
+
+Top 1: Shift = 24, Distance = 223.001447
+Decrypted text: Meet me later
+
+
+Top 2: Shift = 2, Distance = 343.090584
+Decrypted text: Iaap ia hwpan
+
+
+Top 3: Shift = 17, Distance = 375.509083
+Decrypted text: Tlla tl shaly
+
+
+Euclidean Distance
+
+Top 1: Shift = 24, Distance = 34.859542
+Decrypted text: Meet me later
+
+
+Top 2: Shift = 2, Distance = 41.128473
+Decrypted text: Iaap ia hwpan
+
+
+Top 3: Shift = 9, Distance = 41.194731
+Decrypted text: Btti bt apitg
+
+
+Cosine Distance
+
+Top 1: Shift = 24, Distance = 0.308989
+Decrypted text: Meet me later
+
+
+Top 2: Shift = 2, Distance = 0.505777
+Decrypted text: Iaap ia hwpan
+
+
+Top 3: Shift = 9, Distance = 0.508030
+Decrypted text: Btti bt apitg
+
+
+Text: Durian, elderberry, fig
+
+Shift: 20
+
+Chi Squared Distance
+
+Top 1: Shift = 20, Distance = 118.486957
+Decrypted text: Durian, elderberry, fig
+
+
+Top 2: Shift = 11, Distance = 280.017109
+Decrypted text: Mdarjw, numnaknaah, orp
+
+
+Top 3: Shift = 18, Distance = 320.995389
+Decrypted text: Fwtkcp, gnfgtdgtta, hki
+
+
+Euclidean Distance
+
+Top 1: Shift = 7, Distance = 22.795010
+Decrypted text: Qhevna, ryqreoreel, svt
+
+
+Top 2: Shift = 20, Distance = 24.314429
+Decrypted text: Durian, elderberry, fig
+
+
+Top 3: Shift = 11, Distance = 28.015632
+Decrypted text: Mdarjw, numnaknaah, orp
+
+
+Cosine Distance
+
+Top 1: Shift = 7, Distance = 0.263091
+Decrypted text: Qhevna, ryqreoreel, svt
+
+
+Top 2: Shift = 20, Distance = 0.304539
+Decrypted text: Durian, elderberry, fig
+
+
+Top 3: Shift = 11, Distance = 0.416690
+Decrypted text: Mdarjw, numnaknaah, orp
+
+
+Text: Mississippi river cruise
+
+Shift: 16
+
+Chi Squared Distance
+
+Top 1: Shift = 16, Distance = 213.570398
+Decrypted text: Mississippi river cruise
+
+
+Top 2: Shift = 20, Distance = 309.568415
+Decrypted text: Ieooeooelle neran ynqeoa
+
+
+Top 3: Shift = 5, Distance = 348.257652
+Decrypted text: Xtddtddtaat ctgpc ncftdp
+
+
+Euclidean Distance
+
+Top 1: Shift = 20, Distance = 27.843677
+Decrypted text: Ieooeooelle neran ynqeoa
+
+
+Top 2: Shift = 16, Distance = 34.229139
+Decrypted text: Mississippi river cruise
+
+
+Top 3: Shift = 5, Distance = 36.027734
+Decrypted text: Xtddtddtaat ctgpc ncftdp
+
+
+Cosine Distance
+
+Top 1: Shift = 20, Distance = 0.253085
+Decrypted text: Ieooeooelle neran ynqeoa
+
+
+Top 2: Shift = 16, Distance = 0.440999
+Decrypted text: Mississippi river cruise
+
+
+Top 3: Shift = 5, Distance = 0.500908
+Decrypted text: Xtddtddtaat ctgpc ncftdp
+
+
+Text: NASA explores Mars
+
+Shift: 5
+
+Chi Squared Distance
+
+Top 1: Shift = 5, Distance = 290.273798
+Decrypted text: NASA explores Mars
+
+
+Top 2: Shift = 16, Distance = 311.453832
+Decrypted text: CPHP tmeadgth Bpgh
+
+
+Top 3: Shift = 9, Distance = 406.218027
+Decrypted text: JWOW atlhknao Iwno
+
+
+Euclidean Distance
+
+Top 1: Shift = 5, Distance = 24.728728
+Decrypted text: NASA explores Mars
+
+
+Top 2: Shift = 9, Distance = 28.683793
+Decrypted text: JWOW atlhknao Iwno
+
+
+Top 3: Shift = 1, Distance = 28.792534
+Decrypted text: REWE ibtpsviw Qevw
+
+
+Cosine Distance
+
+Top 1: Shift = 5, Distance = 0.285234
+Decrypted text: NASA explores Mars
+
+
+Top 2: Shift = 9, Distance = 0.401832
+Decrypted text: JWOW atlhknao Iwno
+
+
+Top 3: Shift = 1, Distance = 0.405281
+Decrypted text: REWE ibtpsviw Qevw
+
+
+Text: Peter Piper picked peppers
+
+Shift: 9
+
+Chi Squared Distance
+
+Top 1: Shift = 6, Distance = 286.201109
+Decrypted text: Shwhu Slshu slfnhg shsshuv
+
+
+Top 2: Shift = 5, Distance = 418.411033
+Decrypted text: Tixiv Tmtiv tmgoih tittivw
+
+
+Top 3: Shift = 13, Distance = 466.616394
+Decrypted text: Lapan Lelan leygaz lallano
+
+
+Euclidean Distance
+
+Top 1: Shift = 20, Distance = 32.838431
+Decrypted text: Etitg Exetg exrzts eteetgh
+
+
+Top 2: Shift = 9, Distance = 36.666736
+Decrypted text: Peter Piper picked peppers
+
+
+Top 3: Shift = 13, Distance = 37.672697
+Decrypted text: Lapan Lelan leygaz lallano
+
+
+Cosine Distance
+
+Top 1: Shift = 20, Distance = 0.325487
+Decrypted text: Etitg Exetg exrzts eteetgh
+
+
+Top 2: Shift = 9, Distance = 0.443161
+Decrypted text: Peter Piper picked peppers
+
+
+Top 3: Shift = 13, Distance = 0.476233
+Decrypted text: Lapan Lelan leygaz lallano
+
+
+Text: Madam, in Eden, I'm Adam
+
+Shift: 10
+
+Chi Squared Distance
+
+Top 1: Shift = 22, Distance = 265.449025
+Decrypted text: Aoroa, wb Srsb, W'a Oroa
+
+
+Top 2: Shift = 10, Distance = 322.248566
+Decrypted text: Madam, in Eden, I'm Adam
+
+
+Top 3: Shift = 18, Distance = 480.652195
+Decrypted text: Esvse, af Wvwf, A'e Svse
+
+
+Euclidean Distance
+
+Top 1: Shift = 10, Distance = 34.909244
+Decrypted text: Madam, in Eden, I'm Adam
+
+
+Top 2: Shift = 18, Distance = 35.494109
+Decrypted text: Esvse, af Wvwf, A'e Svse
+
+
+Top 3: Shift = 22, Distance = 36.053180
+Decrypted text: Aoroa, wb Srsb, W'a Oroa
+
+
+Cosine Distance
+
+Top 1: Shift = 10, Distance = 0.420482
+Decrypted text: Madam, in Eden, I'm Adam
+
+
+Top 2: Shift = 18, Distance = 0.439245
+Decrypted text: Esvse, af Wvwf, A'e Svse
+
+
+Top 3: Shift = 22, Distance = 0.457472
+Decrypted text: Aoroa, wb Srsb, W'a Oroa
+
+
+Text: A man, a plan, a canal, Panama
+
+Shift: 23
+
+Chi Squared Distance
+
+Top 1: Shift = 23, Distance = 347.289894
+Decrypted text: A man, a plan, a canal, Panama
+
+
+Top 2: Shift = 6, Distance = 408.127739
+Decrypted text: R dre, r gcre, r trerc, Grerdr
+
+
+Top 3: Shift = 4, Distance = 414.893696
+Decrypted text: T ftg, t ietg, t vtgte, Itgtft
+
+
+Euclidean Distance
+
+Top 1: Shift = 19, Distance = 43.739097
+Decrypted text: E qer, e tper, e gerep, Tereqe
+
+
+Top 2: Shift = 4, Distance = 47.033565
+Decrypted text: T ftg, t ietg, t vtgte, Itgtft
+
+
+Top 3: Shift = 6, Distance = 47.607163
+Decrypted text: R dre, r gcre, r trerc, Grerdr
+
+
+Cosine Distance
+
+Top 1: Shift = 19, Distance = 0.397969
+Decrypted text: E qer, e tper, e gerep, Tereqe
+
+
+Top 2: Shift = 4, Distance = 0.505868
+Decrypted text: T ftg, t ietg, t vtgte, Itgtft
+
+
+Top 3: Shift = 6, Distance = 0.525454
+Decrypted text: R dre, r gcre, r trerc, Grerdr
+
+
+Text: Sphinx of black quartz, judge my vow
+
+Shift: 24
+
+Chi Squared Distance
+
+Top 1: Shift = 5, Distance = 369.055016
+Decrypted text: Liabgq hy uetvd jntkms, cnwzx fr ohp
+
+
+Top 2: Shift = 24, Distance = 375.809444
+Decrypted text: Sphinx of black quartz, judge my vow
+
+
+Top 3: Shift = 10, Distance = 376.555197
+Decrypted text: Gdvwbl ct pzoqy eiofhn, xirus am jck
+
+
+Euclidean Distance
+
+Top 1: Shift = 5, Distance = 15.163199
+Decrypted text: Liabgq hy uetvd jntkms, cnwzx fr ohp
+
+
+Top 2: Shift = 20, Distance = 15.366506
+Decrypted text: Wtlmrb sj fpego uyevxd, nyhki qc zsa
+
+
+Top 3: Shift = 24, Distance = 15.917628
+Decrypted text: Sphinx of black quartz, judge my vow
+
+
+Cosine Distance
+
+Top 1: Shift = 5, Distance = 0.193849
+Decrypted text: Liabgq hy uetvd jntkms, cnwzx fr ohp
+
+
+Top 2: Shift = 20, Distance = 0.199786
+Decrypted text: Wtlmrb sj fpego uyevxd, nyhki qc zsa
+
+
+Top 3: Shift = 24, Distance = 0.216279
+Decrypted text: Sphinx of black quartz, judge my vow
+
+
+Text: Maintaining a balanced diet and regular exercise is crucial for overall well-being and disease prevention.
+
+Shift: 16
+
+Chi Squared Distance
+
+Top 1: Shift = 16, Distance = 36.746275
+Decrypted text: Maintaining a balanced diet and regular exercise is crucial for overall well-being and disease prevention.
+
+
+Top 2: Shift = 12, Distance = 270.407216
+Decrypted text: Qemrxemrmrk e fepergih hmix erh vikypev ibivgmwi mw gvygmep jsv szivepp aipp-fimrk erh hmwiewi tvizirxmsr.
+
+
+Top 3: Shift = 5, Distance = 309.148916
+Decrypted text: Xltyeltytyr l mlwlynpo otpe lyo cprfwlc pipcntdp td ncfntlw qzc zgpclww hpww-mptyr lyo otdpldp acpgpyetzy.
+
+
+Euclidean Distance
+
+Top 1: Shift = 16, Distance = 13.220499
+Decrypted text: Maintaining a balanced diet and regular exercise is crucial for overall well-being and disease prevention.
+
+
+Top 2: Shift = 20, Distance = 22.148575
+Decrypted text: Iwejpwejejc w xwhwjyaz zeap wjz nacqhwn atanyeoa eo ynqyewh bkn kranwhh sahh-xaejc wjz zeoawoa lnarajpekj.
+
+
+Top 3: Shift = 3, Distance = 22.268649
+Decrypted text: Znvagnvavat n onynaprq qvrg naq erthyne rkrepvfr vf pehpvny sbe birenyy jryy-orvat naq qvfrnfr ceriragvba.
+
+
+Cosine Distance
+
+Top 1: Shift = 16, Distance = 0.111910
+Decrypted text: Maintaining a balanced diet and regular exercise is crucial for overall well-being and disease prevention.
+
+
+Top 2: Shift = 20, Distance = 0.326167
+Decrypted text: Iwejpwejejc w xwhwjyaz zeap wjz nacqhwn atanyeoa eo ynqyewh bkn kranwhh sahh-xaejc wjz zeoawoa lnarajpekj.
+
+
+Top 3: Shift = 3, Distance = 0.329786
+Decrypted text: Znvagnvavat n onynaprq qvrg naq erthyne rkrepvfr vf pehpvny sbe birenyy jryy-orvat naq qvfrnfr ceriragvba.
+
+
+Text: Four score and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal.
+
+Shift: 21
+
+Chi Squared Distance
+
+Top 1: Shift = 21, Distance = 13.386643
+Decrypted text: Four score and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal.
+
+
+Top 2: Shift = 1, Distance = 297.694983
+Decrypted text: Ziol mwily uhx mypyh syulm uai iol zunbylm vlioabn zilnb ih nbcm wihnchyhn u hyq huncih, wihwycpyx ch fcvylns, uhx xyxcwunyx ni nby jlijimcncih nbun uff gyh uly wlyunyx ykouf.
+
+
+Top 3: Shift = 6, Distance = 344.773630
+Decrypted text: Udjg hrdgt pcs htktc ntpgh pvd djg upiwtgh qgdjvwi udgiw dc iwxh rdcixctci p ctl cpixdc, rdcrtxkts xc axqtgin, pcs stsxrpits id iwt egdedhxixdc iwpi paa btc pgt rgtpits tfjpa.
+
+
+Euclidean Distance
+
+Top 1: Shift = 21, Distance = 6.381643
+Decrypted text: Four score and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal.
+
+
+Top 2: Shift = 8, Distance = 21.710706
+Decrypted text: Sbhe fpber naq frira lrnef ntb bhe snguref oebhtug sbegu ba guvf pbagvarag n arj angvba, pbaprvirq va yvoregl, naq qrqvpngrq gb gur cebcbfvgvba gung nyy zra ner perngrq rdhny.
+
+
+Top 3: Shift = 17, Distance = 22.317438
+Decrypted text: Jsyv wgsvi erh wizir cievw eks syv jexlivw fvsyklx jsvxl sr xlmw gsrxmrirx e ria rexmsr, gsrgimzih mr pmfivxc, erh hihmgexih xs xli tvstswmxmsr xlex epp qir evi gviexih iuyep.
+
+
+Cosine Distance
+
+Top 1: Shift = 21, Distance = 0.026824
+Decrypted text: Four score and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal.
+
+
+Top 2: Shift = 8, Distance = 0.333739
+Decrypted text: Sbhe fpber naq frira lrnef ntb bhe snguref oebhtug sbegu ba guvf pbagvarag n arj angvba, pbaprvirq va yvoregl, naq qrqvpngrq gb gur cebcbfvgvba gung nyy zra ner perngrq rdhny.
+
+
+Top 3: Shift = 17, Distance = 0.352777
+Decrypted text: Jsyv wgsvi erh wizir cievw eks syv jexlivw fvsyklx jsvxl sr xlmw gsrxmrirx e ria rexmsr, gsrgimzih mr pmfivxc, erh hihmgexih xs xli tvstswmxmsr xlex epp qir evi gviexih iuyep.
+
+
+Text: In the heart of ancient Rome, where the grandeur of the Colosseum stood as a testament to the empire's might, gladiators fought for glory and survival. The roar of the crowd echoed through the stone arches as warriors clashed in epic battles. Each combatant, armed with sword and shield, embodied the spirit of courage and determination that defined the era. The games were not merely entertainment but a reflection of the Roman ethos, where strength and valor were celebrated above all else.
+
+Shift: 13
+
+Chi Squared Distance
+
+Top 1: Shift = 13, Distance = 7.313829
+Decrypted text: In the heart of ancient Rome, where the grandeur of the Colosseum stood as a testament to the empire's might, gladiators fought for glory and survival. The roar of the crowd echoed through the stone arches as warriors clashed in epic battles. Each combatant, armed with sword and shield, embodied the spirit of courage and determination that defined the era. The games were not merely entertainment but a reflection of the Roman ethos, where strength and valor were celebrated above all else.
+
+
+Top 2: Shift = 24, Distance = 240.561813
+Decrypted text: Xc iwt wtpgi du pcrxtci Gdbt, lwtgt iwt vgpcstjg du iwt Rdadhhtjb hidds ph p ithipbtci id iwt tbexgt'h bxvwi, vapsxpidgh udjvwi udg vadgn pcs hjgkxkpa. Iwt gdpg du iwt rgdls trwdts iwgdjvw iwt hidct pgrwth ph lpggxdgh raphwts xc texr qpiiath. Tprw rdbqpipci, pgbts lxiw hldgs pcs hwxtas, tbqdsxts iwt hexgxi du rdjgpvt pcs stitgbxcpixdc iwpi stuxcts iwt tgp. Iwt vpbth ltgt cdi btgtan tcitgipxcbtci qji p gtuatrixdc du iwt Gdbpc tiwdh, lwtgt higtcviw pcs kpadg ltgt rtatqgpits pqdkt paa taht.
+
+
+Top 3: Shift = 12, Distance = 317.584738
+Decrypted text: Jo uif ifbsu pg bodjfou Spnf, xifsf uif hsboefvs pg uif Dpmpttfvn tuppe bt b uftubnfou up uif fnqjsf't njhiu, hmbejbupst gpvhiu gps hmpsz boe tvswjwbm. Uif spbs pg uif dspxe fdipfe uispvhi uif tupof bsdift bt xbssjpst dmbtife jo fqjd cbuumft. Fbdi dpncbubou, bsnfe xjui txpse boe tijfme, fncpejfe uif tqjsju pg dpvsbhf boe efufsnjobujpo uibu efgjofe uif fsb. Uif hbnft xfsf opu nfsfmz foufsubjonfou cvu b sfgmfdujpo pg uif Spnbo fuipt, xifsf tusfohui boe wbmps xfsf dfmfcsbufe bcpwf bmm fmtf.
+
+
+Euclidean Distance
+
+Top 1: Shift = 13, Distance = 5.646980
+Decrypted text: In the heart of ancient Rome, where the grandeur of the Colosseum stood as a testament to the empire's might, gladiators fought for glory and survival. The roar of the crowd echoed through the stone arches as warriors clashed in epic battles. Each combatant, armed with sword and shield, embodied the spirit of courage and determination that defined the era. The games were not merely entertainment but a reflection of the Roman ethos, where strength and valor were celebrated above all else.
+
+
+Top 2: Shift = 24, Distance = 22.425673
+Decrypted text: Xc iwt wtpgi du pcrxtci Gdbt, lwtgt iwt vgpcstjg du iwt Rdadhhtjb hidds ph p ithipbtci id iwt tbexgt'h bxvwi, vapsxpidgh udjvwi udg vadgn pcs hjgkxkpa. Iwt gdpg du iwt rgdls trwdts iwgdjvw iwt hidct pgrwth ph lpggxdgh raphwts xc texr qpiiath. Tprw rdbqpipci, pgbts lxiw hldgs pcs hwxtas, tbqdsxts iwt hexgxi du rdjgpvt pcs stitgbxcpixdc iwpi stuxcts iwt tgp. Iwt vpbth ltgt cdi btgtan tcitgipxcbtci qji p gtuatrixdc du iwt Gdbpc tiwdh, lwtgt higtcviw pcs kpadg ltgt rtatqgpits pqdkt paa taht.
+
+
+Top 3: Shift = 0, Distance = 22.698679
+Decrypted text: Va gur urneg bs napvrag Ebzr, jurer gur tenaqrhe bs gur Pbybffrhz fgbbq nf n grfgnzrag gb gur rzcver'f zvtug, tynqvngbef sbhtug sbe tybel naq fheiviny. Gur ebne bs gur pebjq rpubrq guebhtu gur fgbar nepurf nf jneevbef pynfurq va rcvp onggyrf. Rnpu pbzongnag, nezrq jvgu fjbeq naq fuvryq, rzobqvrq gur fcvevg bs pbhentr naq qrgrezvangvba gung qrsvarq gur ren. Gur tnzrf jrer abg zreryl ragregnvazrag ohg n ersyrpgvba bs gur Ebzna rgubf, jurer fgeratgu naq inybe jrer pryroengrq nobir nyy ryfr.
+
+
+Cosine Distance
+
+Top 1: Shift = 13, Distance = 0.019485
+Decrypted text: In the heart of ancient Rome, where the grandeur of the Colosseum stood as a testament to the empire's might, gladiators fought for glory and survival. The roar of the crowd echoed through the stone arches as warriors clashed in epic battles. Each combatant, armed with sword and shield, embodied the spirit of courage and determination that defined the era. The games were not merely entertainment but a reflection of the Roman ethos, where strength and valor were celebrated above all else.
+
+
+Top 2: Shift = 24, Distance = 0.351515
+Decrypted text: Xc iwt wtpgi du pcrxtci Gdbt, lwtgt iwt vgpcstjg du iwt Rdadhhtjb hidds ph p ithipbtci id iwt tbexgt'h bxvwi, vapsxpidgh udjvwi udg vadgn pcs hjgkxkpa. Iwt gdpg du iwt rgdls trwdts iwgdjvw iwt hidct pgrwth ph lpggxdgh raphwts xc texr qpiiath. Tprw rdbqpipci, pgbts lxiw hldgs pcs hwxtas, tbqdsxts iwt hexgxi du rdjgpvt pcs stitgbxcpixdc iwpi stuxcts iwt tgp. Iwt vpbth ltgt cdi btgtan tcitgipxcbtci qji p gtuatrixdc du iwt Gdbpc tiwdh, lwtgt higtcviw pcs kpadg ltgt rtatqgpits pqdkt paa taht.
+
+
+Top 3: Shift = 0, Distance = 0.360199
+Decrypted text: Va gur urneg bs napvrag Ebzr, jurer gur tenaqrhe bs gur Pbybffrhz fgbbq nf n grfgnzrag gb gur rzcver'f zvtug, tynqvngbef sbhtug sbe tybel naq fheiviny. Gur ebne bs gur pebjq rpubrq guebhtu gur fgbar nepurf nf jneevbef pynfurq va rcvp onggyrf. Rnpu pbzongnag, nezrq jvgu fjbeq naq fuvryq, rzobqvrq gur fcvevg bs pbhentr naq qrgrezvangvba gung qrsvarq gur ren. Gur tnzrf jrer abg zreryl ragregnvazrag ohg n ersyrpgvba bs gur Ebzna rgubf, jurer fgeratgu naq inybe jrer pryroengrq nobir nyy ryfr.
+
+
+Text: The discovery of penicillin by Sir Alexander Fleming in 1928 revolutionized the field of medicine, ushering in the era of antibiotics. This accidental finding, born from a contaminated petri dish, proved to be a turning point in the fight against bacterial infections. Penicillin's ability to inhibit the growth of harmful bacteria offered a lifeline to countless individuals suffering from previously untreatable diseases. Fleming's work laid the foundation for future advancements in pharmacology, saving millions of lives and transforming healthcare practices worldwide.
+Shift: 17
+
+Chi Squared Distance
+
+Top 1: Shift = 17, Distance = 14.492673
+Decrypted text: The discovery of penicillin by Sir Alexander Fleming in 1928 revolutionized the field of medicine, ushering in the era of antibiotics. This accidental finding, born from a contaminated petri dish, proved to be a turning point in the fight against bacterial infections. Penicillin's ability to inhibit the growth of harmful bacteria offered a lifeline to countless individuals suffering from previously untreatable diseases. Fleming's work laid the foundation for future advancements in pharmacology, saving millions of lives and transforming healthcare practices worldwide.
+
+Top 2: Shift = 4, Distance = 426.599975
+Decrypted text: Gur qvfpbirel bs cravpvyyva ol Fve Nyrknaqre Syrzvat va 1928 eribyhgvbavmrq gur svryq bs zrqvpvar, hfurevat va gur ren bs nagvovbgvpf. Guvf nppvqragny svaqvat, obea sebz n pbagnzvangrq crgev qvfu, cebirq gb or n gheavat cbvag va gur svtug ntnvafg onpgrevny vasrpgvbaf. Cravpvyyva'f novyvgl gb vauvovg gur tebjgu bs unezshy onpgrevn bssrerq n yvsryvar gb pbhagyrff vaqvivqhnyf fhssrevat sebz cerivbhfyl hagerngnoyr qvfrnfrf. Syrzvat'f jbex ynvq gur sbhaqngvba sbe shgher nqinaprzragf va cuneznpbybtl, fnivat zvyyvbaf bs yvirf naq genafsbezvat urnygupner cenpgvprf jbeyqjvqr.
+
+Top 3: Shift = 23, Distance = 444.731377
+Decrypted text: Nby xcmwipyls iz jyhcwcffch vs Mcl Ufyruhxyl Zfygcha ch 1928 lypifoncihctyx nby zcyfx iz gyxcwchy, ombylcha ch nby ylu iz uhncvcincwm. Nbcm uwwcxyhnuf zchxcha, vilh zlig u wihnugchunyx jynlc xcmb, jlipyx ni vy u nolhcha jichn ch nby zcabn uauchmn vuwnylcuf chzywncihm. Jyhcwcffch'm uvcfcns ni chbcvcn nby aliqnb iz bulgzof vuwnylcu izzylyx u fczyfchy ni wiohnfymm chxcpcxoufm mozzylcha zlig jlypciomfs ohnlyunuvfy xcmyumym. Zfygcha'm qile fucx nby ziohxuncih zil zonoly uxpuhwygyhnm ch jbulguwifias, mupcha gcffcihm iz fcpym uhx nluhmzilgcha byufnbwuly jluwncwym qilfxqcxy.
+
+Euclidean Distance
+
+Top 1: Shift = 17, Distance = 8.400834
+Decrypted text: The discovery of penicillin by Sir Alexander Fleming in 1928 revolutionized the field of medicine, ushering in the era of antibiotics. This accidental finding, born from a contaminated petri dish, proved to be a turning point in the fight against bacterial infections. Penicillin's ability to inhibit the growth of harmful bacteria offered a lifeline to countless individuals suffering from previously untreatable diseases. Fleming's work laid the foundation for future advancements in pharmacology, saving millions of lives and transforming healthcare practices worldwide.
+
+Top 2: Shift = 21, Distance = 19.635773
+Decrypted text: Pda zeoykranu kb lajeyehhej xu Oen Whatwjzan Bhaiejc ej 1928 narkhqpekjevaz pda beahz kb iazeyeja, qodanejc ej pda anw kb wjpexekpeyo. Pdeo wyyezajpwh bejzejc, xknj bnki w ykjpwiejwpaz lapne zeod, lnkraz pk xa w pqnjejc lkejp ej pda becdp wcwejop xwypanewh ejbaypekjo. Lajeyehhej'o wxehepu pk ejdexep pda cnkspd kb dwnibqh xwypanew kbbanaz w hebaheja pk ykqjphaoo ejzerezqwho oqbbanejc bnki lnarekqohu qjpnawpwxha zeoawoao. Bhaiejc'o skng hwez pda bkqjzwpekj bkn bqpqna wzrwjyaiajpo ej ldwniwykhkcu, owrejc iehhekjo kb herao wjz pnwjobkniejc dawhpdywna lnwypeyao sknhzseza.
+
+Top 3: Shift = 6, Distance = 20.462550
+Decrypted text: Esp otdnzgpcj zq apytntwwty mj Dtc Lwpilyopc Qwpxtyr ty 1928 cpgzwfetzytkpo esp qtpwo zq xpotntyp, fdspctyr ty esp pcl zq lyetmtzetnd. Estd lnntopyelw qtyotyr, mzcy qczx l nzyelxtylepo apect otds, aczgpo ez mp l efcytyr aztye ty esp qtrse lrltyde mlnepctlw tyqpnetzyd. Apytntwwty'd lmtwtej ez tystmte esp rczhes zq slcxqfw mlnepctl zqqpcpo l wtqpwtyp ez nzfyewpdd tyotgtoflwd dfqqpctyr qczx acpgtzfdwj fyecplelmwp otdpldpd. Qwpxtyr'd hzcv wlto esp qzfyoletzy qzc qfefcp loglynpxpyed ty aslcxlnzwzrj, dlgtyr xtwwtzyd zq wtgpd lyo eclydqzcxtyr splwesnlcp aclnetnpd hzcwohtop.
+
+Cosine Distance
+
+Top 1: Shift = 17, Distance = 0.053206
+Decrypted text: The discovery of penicillin by Sir Alexander Fleming in 1928 revolutionized the field of medicine, ushering in the era of antibiotics. This accidental finding, born from a contaminated petri dish, proved to be a turning point in the fight against bacterial infections. Penicillin's ability to inhibit the growth of harmful bacteria offered a lifeline to countless individuals suffering from previously untreatable diseases. Fleming's work laid the foundation for future advancements in pharmacology, saving millions of lives and transforming healthcare practices worldwide.
+
+Top 2: Shift = 21, Distance = 0.290873
+Decrypted text: Pda zeoykranu kb lajeyehhej xu Oen Whatwjzan Bhaiejc ej 1928 narkhqpekjevaz pda beahz kb iazeyeja, qodanejc ej pda anw kb wjpexekpeyo. Pdeo wyyezajpwh bejzejc, xknj bnki w ykjpwiejwpaz lapne zeod, lnkraz pk xa w pqnjejc lkejp ej pda becdp wcwejop xwypanewh ejbaypekjo. Lajeyehhej'o wxehepu pk ejdexep pda cnkspd kb dwnibqh xwypanew kbbanaz w hebaheja pk ykqjphaoo ejzerezqwho oqbbanejc bnki lnarekqohu qjpnawpwxha zeoawoao. Bhaiejc'o skng hwez pda bkqjzwpekj bkn bqpqna wzrwjyaiajpo ej ldwniwykhkcu, owrejc iehhekjo kb herao wjz pnwjobkniejc dawhpdywna lnwypeyao sknhzseza.
+
+Top 3: Shift = 6, Distance = 0.315888
+Decrypted text: Esp otdnzgpcj zq apytntwwty mj Dtc Lwpilyopc Qwpxtyr ty 1928 cpgzwfetzytkpo esp qtpwo zq xpotntyp, fdspctyr ty esp pcl zq lyetmtzetnd. Estd lnntopyelw qtyotyr, mzcy qczx l nzyelxtylepo apect otds, aczgpo ez mp l efcytyr aztye ty esp qtrse lrltyde mlnepctlw tyqpnetzyd. Apytntwwty'd lmtwtej ez tystmte esp rczhes zq slcxqfw mlnepctl zqqpcpo l wtqpwtyp ez nzfyewpdd tyotgtoflwd dfqqpctyr qczx acpgtzfdwj fyecplelmwp otdpldpd. Qwpxtyr'd hzcv wlto esp qzfyoletzy qzc qfefcp loglynpxpyed ty aslcxlnzwzrj, dlgtyr xtwwtzyd zq wtgpd lyo eclydqzcxtyr splwesnlcp aclnetnpd hzcwohtop.
+

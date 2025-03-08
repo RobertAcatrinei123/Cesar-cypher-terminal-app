@@ -71,7 +71,7 @@ double cosine_distance(const double histogram1[ALPHABET_SIZE], const double hist
     }
     p1 = sqrt(p1);
     p2 = sqrt(p2);
-    return p / (p1 * p2);
+    return 1 - p / (p1 * p2);
 }
 
 char *shift_text(const char *text, int shift)
@@ -179,7 +179,17 @@ void menu()
         printf("q. Quit\n");
         printf("Enter choice (please only write one letter): ");
         char o;
-        scanf("%c", &o);
+        char tmp[100];
+        fflush(stdin);
+        read_text_terminal(tmp);
+        if (strlen(tmp) != 1)
+        {
+            o = '$';
+        }
+        else
+        {
+            o = tmp[0];
+        }
         switch (o)
         {
         case '1':
