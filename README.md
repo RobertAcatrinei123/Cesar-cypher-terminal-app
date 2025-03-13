@@ -43,6 +43,6 @@ When we get to the longer texts we see the functions being able to decipher them
 
 ## Conclusion
 
-For short texts Chi-squared is the most accurate even though it has cases where it's the only one wrong. There are also cases where all of the functions are wrong so different solution might be better. 
+For short texts Chi-squared is the most accurate even though it has cases where it's the only one wrong. There are also cases where all of the functions are wrong so a different solution might be better. 
 
 For long texts all distance functions work perfectly so frequency analysis is the best to use.
